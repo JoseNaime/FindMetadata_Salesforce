@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define some background colors (adjust as you like)
+# Define some background colors
 CONFIG_BG="\e[44m"       # Blue background
 CODE_BG="\e[45m"         # Magenta background
 AUTOMATION_BG="\e[46m"   # Cyan background
